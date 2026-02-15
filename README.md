@@ -16,6 +16,8 @@ Performed a deep-dive behavioral analysis on 500k+ transactions to identify cust
 
 ## 📊 Visualizations
 <img width="1063" height="651" alt="image" src="https://github.com/user-attachments/assets/7174ee76-6fda-4185-a2bf-a6f7881d5f86" />
+<img width="1124" height="623" alt="image" src="https://github.com/user-attachments/assets/3f66ae35-1ac1-4e65-b48e-83c64453d3f3" />
+
 
 ## 🚀 How to Run
 1. **Clone the repo:** `git clone [your-link]`
