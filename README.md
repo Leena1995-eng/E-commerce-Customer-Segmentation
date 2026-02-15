@@ -1,2 +1,18 @@
 # E-commerce-Customer-Segmentation
 Customer Loyalty Audit using RFM Analysis (Recency, Frequency, Monetary) to identify high-value segments and revenue concentration.
+
+## 📌 Project Overview
+Performed a deep-dive behavioral analysis on 500k+ transactions to identify customer segments and revenue risks. Using **RFM (Recency, Frequency, Monetary) modeling**, I isolated the "Whale" customers driving the majority of business growth.
+
+## 🔍 Key Insights
+* **Revenue Concentration:** Discovered that **20% of customers generate 77.24% of total revenue**, identifying a high-dependency risk.
+* **Churn Identification:** Segmented **'At Risk'** users who historically contributed high value but haven't purchased in 6+ months.
+* **Actionable Growth:** Developed a roadmap for targeted 'Win-Back' campaigns and VIP loyalty programs for the **Champions** segment.
+
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Squarify
+* **Methodology:** RFM Segmentation, Pareto Analysis (80/20 Rule)
+
+## 📊 Visualizations
+*(Upload your Treemap and Bar Chart here to show your work immediately!)*
