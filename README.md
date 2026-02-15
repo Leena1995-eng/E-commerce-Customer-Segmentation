@@ -16,3 +16,10 @@ Performed a deep-dive behavioral analysis on 500k+ transactions to identify cust
 
 ## 📊 Visualizations
 <img width="1063" height="651" alt="image" src="https://github.com/user-attachments/assets/7174ee76-6fda-4185-a2bf-a6f7881d5f86" />
+
+## 🚀 How to Run
+1. **Clone the repo:** `git clone [your-link]`
+2. **Install dependencies:** `pip install -r requirements.txt`
+3. **Open the notebook:** Run `jupyter notebook` or upload the `.ipynb` to Google Colab.
+4. **Data:** Ensure the `online_retail_II.csv` is in the `extracted_files/` folder.
+
