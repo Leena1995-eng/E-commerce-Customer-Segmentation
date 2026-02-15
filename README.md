@@ -15,4 +15,4 @@ Performed a deep-dive behavioral analysis on 500k+ transactions to identify cust
 * **Methodology:** RFM Segmentation, Pareto Analysis (80/20 Rule)
 
 ## 📊 Visualizations
-*(Upload your Treemap and Bar Chart here to show your work immediately!)*
+<img width="1063" height="651" alt="image" src="https://github.com/user-attachments/assets/7174ee76-6fda-4185-a2bf-a6f7881d5f86" />
